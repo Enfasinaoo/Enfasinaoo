@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="./ola-carlita.png" alt="Ola carlita" width="200"/>
-  <p><em>"Ola carlita" - Mi filosofía de vida 🌶️</em></p>
+  <p><em>"Ola carlita"</em></p>
 </div>
 
 ## Sobre mí
@@ -38,5 +38,5 @@
 ## 📫 Cómo contactarme
 
 - 📧 Email: enfasinao.staff@gmail.com
-- 🐦 Twitter: [@jonathan_dev](https://twitter.com/jonathan_dev)
+- 🐦 Twitter: OFF
 - 💼 Discord: [jvnhan]
