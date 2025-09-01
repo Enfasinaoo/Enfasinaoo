@@ -26,8 +26,7 @@
 
 ## 📊 Estadísticas de GitHub
 
-# Enfasinaoo
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USERNAME-REAL&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathan&show_icons=true&theme=radical)
 
 ## 🎯 Objetivos 2025
 
