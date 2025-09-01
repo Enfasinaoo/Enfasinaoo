@@ -10,18 +10,18 @@
 ¡Hola! Soy Jonathan, estudiante de Ing civil industrial, me gusta aprender cosas nuevas y sobre todo de marketing.
 
 ## 🌱 Actualmente aprendiendo
-- Python avanzado
+- Python 
 - Marketing digital
-- Análisis de datos
+- 
 
 ## 🎓 Formación
 - Estudiante de Ingeniería Civil Industrial
-- Apasionado por el marketing
+- Me gusta lo que es management y marketing
 
 ## 💡 Intereses
 - Marketing y análisis de mercado
-- Automatización con Python
-- Emprendimiento
+- Automatización con Python para procesos industriales
+
 
 
 ## 📊 Estadísticas de GitHub
