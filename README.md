@@ -12,7 +12,7 @@
 ## 🌱 Actualmente aprendiendo
 - Python 
 - Marketing digital
-- 
+
 
 ## 🎓 Formación
 - Estudiante de Ingeniería Civil Industrial
