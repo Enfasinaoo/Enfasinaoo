@@ -16,7 +16,6 @@
 
 ## 🎓 Formación
 - Estudiante de Ingeniería Civil Industrial
-- Me gusta lo que es management y marketing
 
 ## 💡 Intereses
 - Marketing y análisis de mercado
@@ -32,8 +31,6 @@
 
 - [ ] Dominar Python (pandas, matplotlib, requests)
 - [ ] Aprender Java para desarrollo backend
-- [ ] Crear mi primer proyecto de automatización
-- [ ] Aplicar Python al análisis de marketing
 
 ## 📫 Cómo contactarme
 
